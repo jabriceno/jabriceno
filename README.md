@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jabriceno
+- 👋 Hi, I’m Jesus Briceño
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Node.js, Python, MongoDB, Cassandra, Redis, Elastic, AWS, Jenkins
 
